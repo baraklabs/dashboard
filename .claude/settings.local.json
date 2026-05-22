@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm view *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Paul\\\\Baraklabs\\\\workspace\\\\dashboard\\\\.claude\" -Recurse -Force)",
+      "Bash(Select-Object FullName, PSIsContainer, Length)"
+    ]
+  }
+}
